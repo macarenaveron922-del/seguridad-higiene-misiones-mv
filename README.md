@@ -1,6 +1,6 @@
 # seguridad-higiene-misiones-mv
 Proyecto académico sobre accidentabilidad laboral en la industria del papel y la celulosa de Misiones (2021-2025).
-[https://snazzy-muffin-18fa6c.netlify.app/]
+[https://snazzy-muffin-18fa6c.netlify.app/] [https://drive.google.com/drive/folders/1EdRv2vi0JT1TtKMqgEo_TnwGDmx9jXPP?usp=sharing]
 ## Descripción del proyecto
 
 **Seguridad e Higiene Laboral: análisis de la accidentabilidad en la industria de Misiones y su relación con el sistema de ART (2021-2025)**
@@ -28,8 +28,7 @@ Trabajo Integrador de la carrera de Seguridad e Higiene Laboral, elaborado por M
 | **Gemini (cuaderno)** | Cuaderno de estudio y corroboración de la información recopilada. |
 | **Claude** | Elaboración de los archivos del trabajo (informe en Word y planillas de Excel de respaldo) y del sitio web (`index.html`). |
 | **Netlify** | Carga y publicación de los archivos del sitio. |
-| **Google Drive** | Almacenamiento de las fuentes de datos y los documentos. | [https://drive.google.com/drive/folders/1EdRv2vi0JT1TtKMqgEo_TnwGDmx9jXPP?usp=drive_link]
-
+| **Google Drive** | Almacenamiento de las fuentes de datos y los documentos. |
 ### Fuentes de datos
 
 - **Superintendencia de Riesgos del Trabajo (SRT):** informes de accidentabilidad, programas de prevención (PESE y PESE-PyMES) y compilaciones normativas.
