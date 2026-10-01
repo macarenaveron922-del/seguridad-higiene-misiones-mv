@@ -28,7 +28,7 @@ Trabajo Integrador de la carrera de Seguridad e Higiene Laboral, elaborado por M
 | **Gemini (cuaderno)** | Cuaderno de estudio y corroboración de la información recopilada. |
 | **Claude** | Elaboración de los archivos del trabajo (informe en Word y planillas de Excel de respaldo) y del sitio web (`index.html`). |
 | **Netlify** | Carga y publicación de los archivos del sitio. |
-| **Google Drive** | Almacenamiento de las fuentes de datos y los documentos. | https://drive.google.com/drive/folders/1EdRv2vi0JT1TtKMqgEo_TnwGDmx9jXPP?usp=drive_link
+| **Google Drive** | Almacenamiento de las fuentes de datos y los documentos. | [https://drive.google.com/drive/folders/1EdRv2vi0JT1TtKMqgEo_TnwGDmx9jXPP?usp=drive_link]
 
 ### Fuentes de datos
 
